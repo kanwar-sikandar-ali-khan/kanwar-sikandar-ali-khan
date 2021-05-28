@@ -1,4 +1,3 @@
-### Hi there 👋
 
 Hi, I'm KANWAR SIKANDAR ALI! 👋
 
