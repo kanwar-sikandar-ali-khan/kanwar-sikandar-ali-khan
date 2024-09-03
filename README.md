@@ -1,9 +1,9 @@
 
 Hi, I'm KANWAR SIKANDAR ALI! 👋
 
-🔥 Web and Mobile Application Developer grinding hard to make something cool
+🔥 A dedicated and experienced Software Engineer grinding hard to make something cool
 
-✨ Favorite Tech: JavaScript, React, Node.js Flutter ...
+✨ Favorite Tech: JavaScript, React ,Next.js, Node.js ,python,FastApi ...
 
 📓 I’m currently learning DS and Algo... 😭
 
